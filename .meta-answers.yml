@@ -1,0 +1,7 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v2.1.1
+_src_path: gh:SS-NES/meta-template.git
+description: My Template Description
+maintainer_email: maintainer@utwente.nl
+maintainer_info: true
+template_name: My Template Project
