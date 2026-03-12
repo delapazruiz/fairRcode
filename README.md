@@ -1,7 +1,12 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-# My Template Project
 
-My Template Description
+<div align="center">
+  <img src="template/img/UT_Logo_0072_Black_EN.png" alt="logo">
+</div>
+
+# My UT Research Software Template
+
+A template to make your software more FAIR compliant with the [UT Software Policy and Guideline](https://zenodo.org/records/15807424)
 
 ## How to Use
 This template requires [Python 3.8+](https://www.python.org/downloads/) 
@@ -18,7 +23,7 @@ pipx install copier
 2. Start a new software project using this template:
 
 ```python
-copier copy https://github.com/manuGil/fair-code.git <path/to/project-directory>
+copier copy https://github.com/delapazruiz/fairRcode.git <path/to/project-directory>
 ```
 
 3. Finally, initize a Git repository in your project directory:
@@ -51,7 +56,7 @@ git commit -m 'initial commit'
 
 3. apply the template to your existing project:
 ```shell
-copier copy https://github.com/manuGil/fair-code.git <path/to/exiting-project-directory> 
+copier copy https://github.com/delapazruiz/fairRcode.git <path/to/exiting-project-directory> 
 ```
 
 4. Finally, commit the changes to your exising project:
