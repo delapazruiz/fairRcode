@@ -13,8 +13,8 @@ This folder contains data that has been cleaned, transformed, or aggregated for 
 
 | Processed File | Source Script | Description of Transformation |
 | :--- | :--- | :--- |
-| `clean_survey.csv` | `scripts/01_cleaning.R` | Handles missing values, renames columns to snake_case. |
-| `aggregated_metrics.rds` | `scripts/02_analysis.R` | Calculated means and SDs grouped by category. |
+| `clean_survey.csv` | `code/01_cleaning.R` | Handles missing values, renames columns to snake_case. |
+| `aggregated_metrics.rds` | `code/02_analysis.R` | Calculated means and SDs grouped by category. |
 
 ---
 
