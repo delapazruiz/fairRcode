@@ -1,7 +1,7 @@
 # Raw Data Directory
 
 ## 🛑 Critical Rule: Immutable Data
-Data in this folder must **never** be edited, renamed, or deleted. Any data cleaning or transformation must be performed via scripts located in the `/scripts` directory, with results saved to `/data/processed`.
+Data in this folder must **never** be edited, renamed, or deleted. Any data cleaning or transformation must be performed via scripts located in the `/code` directory, with results saved to `/data/processed`.
 
 ---
 
